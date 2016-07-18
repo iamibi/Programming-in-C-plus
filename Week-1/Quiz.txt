@@ -1,0 +1,19 @@
+Solution to quiz of week 1
+
+1. _ (underscore)
+2. ?:
+3. ptr is a pointer to an array of 20 integers
+4. int compute(int p[][n], int row)
+5. 20
+6. Unpredictable Value
+7. 30
+8. 1
+9. cout and cin not declared in scope
+10. using namespace std;
+11. Will not compile
+12. 20
+13. str1 + str2
+14. 71 45 32 12 26
+15. 5 1 2 3 4
+16. DCBA
+17. A#: s.top(); s.pop(); B#: s.top(); s.pop();
